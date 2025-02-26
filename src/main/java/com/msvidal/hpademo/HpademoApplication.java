@@ -1,0 +1,13 @@
+package com.msvidal.hpademo;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class HpademoApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(HpademoApplication.class, args);
+    }
+
+}
